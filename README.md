@@ -10,6 +10,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
  
 Algorithms Used
+
 -K-Means Clustering
 
 -Agglomerative Clustering
