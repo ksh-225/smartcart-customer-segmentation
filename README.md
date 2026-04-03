@@ -11,7 +11,9 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
  
 Algorithms Used
 -K-Means Clustering
+
 -Agglomerative Clustering
+
 -PCA (for dimensionality reduction & visualisation)
 
 Dataset
